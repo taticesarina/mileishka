@@ -11,7 +11,6 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-fifteen-child
 */
-
 body{
 	background-color: rgb(255, 255, 255);
 	text-transform: uppercase;
@@ -82,7 +81,13 @@ button, input, select, textarea{
 
 }
 
-
+.wp-caption{
+    border: 1px solid #f9dc10;
+    margin-bottom: 10px;
+    max-width: 100%;
+    border-radius: 4px;
+    padding: 0 10px;
+}
 
 
 
