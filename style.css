@@ -1,0 +1,135 @@
+/*
+ Theme Name:   miletheme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+body{
+	background-color: rgb(255, 255, 255);
+	text-transform: uppercase;
+    color: #1e1e1e;
+    font-family: 'Montserrat',sans-serif;
+    padding: 15px 28px 25px;
+
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	background-color: rgb(255, 255, 255);
+}
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	background-color: rgb(255, 255, 255);
+}
+
+.navbar-default .navbar-nav>li>a{
+color: #151414;
+}
+a {
+    color: #19bba7;
+    text-decoration: underline;
+    
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color: rgba(231, 231, 231, 0);
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	
+    color: #101010;
+    background-color: #f9d7ea;
+
+}
+
+p{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 150%;
+}
+
+.recommend {
+    float: left;
+}  
+
+
+button, input, select, textarea{
+	background-color: white;
+    padding: 10px 24px;
+	font-size: 16px;
+	border-radius: 8px;
+
+}
+
+.panel-footer {
+    padding: 5px 15px;
+    background-color: rgba(214, 70, 110, 0.12);
+    border-top: 1px solid rgba(31, 17, 17, 0);
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.panel-default>.panel-heading{
+	    color: #772b2b;
+    background-color: rgba(214, 70, 110, 0.12);
+    border-color: 1px solid rgba(31, 17, 17, 0);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
